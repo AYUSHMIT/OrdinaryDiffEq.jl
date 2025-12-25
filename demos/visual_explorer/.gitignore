@@ -1,0 +1,10 @@
+# Add outputs directory to gitignore
+Manifest.toml
+outputs/
+*.gif
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.pdf
+.DS_Store
